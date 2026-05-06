@@ -92,7 +92,7 @@ npx -v
 
 ```bash
 # 1) Repo'yu klonla
-git clone https://github.com/<kullanici-adin>/MCP-Inspector-Example.git
+git clone https://github.com/AlperenTasdelen/MCP-Inspector-Example.git
 cd MCP-Inspector-Example
 
 # 2) Sanal ortam oluştur (önerilir)
